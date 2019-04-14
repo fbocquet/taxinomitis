@@ -237,7 +237,7 @@
             "WEBCAMFAIL": "Désolé ! Nous n'avons pas réussi à faire fonctionner une webcam pour vous.",
             "WEBCAMERROR": "Le message que nous avons reçu de votre navigateur web était :"
         },
-        "BACKGROUNDNOISE": "Collecting examples of background noise will help the computer to learn to recognize your sounds"
+        "BACKGROUNDNOISE": "Collecter des exemples de sons avec les bruits de fond va aider l'ordinateur à apprendre à reconnaître vos propres sons."
     },
     "MODELS": {
         "TITLE": "Modèles d'apprentissage machine",
@@ -256,13 +256,13 @@
                     "TEXT" : "Votre classe est en train d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de textes que vous avez tous recueillis.",
                     "IMAGES" : "Votre classe est en train d'entraîner un modèle d'apprentissage automatique à l'aide des exemples d'images que vous avez tous recueillis.",
                     "NUMBERS" : "Votre classe est en train d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de chiffres que vous avez tous recueillis.",
-                    "SOUNDS" : "Your class is training a machine learning model using the examples of sounds that you all collected."
+                    "SOUNDS" : "Votre classe est en train d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de sons que vous avez tous recueillis."
                 },
                 "INDIVIDUAL" : {
                     "TEXT" : "Vous avez commencé à entraîner un modèle d'apprentissage automatique à l'aide des exemples de textes que vous avez recueillis.",
                     "IMAGES" : "Vous avez commencé à entraîner un modèle d'apprentissage automatique à l'aide des exemples d'images que vous avez recueillis.",
                     "NUMBERS" : "Vous avez commencé à entraîner un modèle d'apprentissage automatique à l'aide des exemples de nombres que vous avez recueillis.",
-                    "SOUNDS" : "You've started training a machine learning model using the examples of sounds that you collected."
+                    "SOUNDS" : "Vous avez commencé à entraîner un modèle d'apprentissage automatique à l'aide des exemples de sons que vous avez recueillis."
                 },
                 "SINCE": "La machine s'entraîne depuis"
             },
@@ -271,13 +271,13 @@
                     "TEXT" : "Votre classe a entraîné un modèle d'apprentissage automatique pour reconnaître quand le texte est ",
                     "IMAGES" : "Votre classe a entraîné un modèle d'apprentissage automatique pour reconnaître quand les images sont ",
                     "NUMBERS" : "Votre classe a entraîné un modèle d'apprentissage automatique pour reconnaître quand les nombres sont ",
-                    "SOUNDS" : "Your class has trained a machine learning model to recognise when sounds are "
+                    "SOUNDS" : "Votre classe a entraîné un modèle d'apprentissage automatique pour reconnaître quand les sons signifient "
                 },
                 "INDIVIDUAL" : {
                     "TEXT" : "Vous avez entraîné un modèle d'apprentissage automatique pour reconnaître quand le texte est ",
                     "IMAGES" : "Vous avez entraîné un modèle d'apprentissage automatique pour reconnaître quand les images sont ",
                     "NUMBERS" : "Vous avez entraîné un modèle d'apprentissage automatique pour reconnaître quand les nombres sont ",
-                    "SOUNDS" : "You have trained a machine learning model to recognise when sounds are "
+                    "SOUNDS" : "Vous avez entraîné un modèle d'apprentissage automatique pour reconnaître quand les sons signifient "
                 },
                 "CREATED" : {
                     "TEACHER" : "Votre professeur a créé le modèle sur ",
@@ -294,20 +294,20 @@
                         "TEXT" : "Votre enseignant a essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de textes que votre classe a recueillis.",
                         "IMAGES" : "Votre enseignant a essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples d'images que votre classe a recueillis.",
                         "NUMBERS" : "Votre enseignant a essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de nombres que votre classe a recueillis.",
-                        "SOUNDS" : "Your teacher tried training a machine learning model using the examples of sounds that your class collected."
+                        "SOUNDS" : "Votre enseignant a essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de sons que votre classe a recueillis."
                     },
                     "YOU" : {
                         "TEXT" : "YVous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de textes que votre classe a recueillis.",
                         "IMAGES" : "Vous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples d'images que votre classe a recueillis.",
                         "NUMBERS" : "Vous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de nombres que votre classe a recueillis.",
-                        "SOUNDS" : "You tried training a machine learning model using the examples of sounds that your class collected."
+                        "SOUNDS" : "Vous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de sons que votre classe a recueillis."
                     }
                 },
                 "INDIVIDUAL" : {
                     "TEXT" : "Vous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de textes que vous avez recueillis.",
                     "IMAGES" : "Vous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples d'images que vous avez recueillis.",
                     "NUMBERS" : "Vous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de nombres que vous avez recueillis.",
-                    "SOUNDS" : "You tried training a machine learning model using the examples of sounds that you collected."
+                    "SOUNDS" : "Vous avez essayé d'entraîner un modèle d'apprentissage automatique à l'aide des exemples de sons que vous avez recueillis."
                 }
             },
             "IDLE" : {
@@ -316,13 +316,13 @@
                         "TEXT" : "Votre classe a dit que vous vouliez recueillir des exemples de textes.",
                         "IMAGES" : "Votre classe a dit que vous vouliez recueillir des exemples d'images.",
                         "NUMBERS" : "Votre classe a dit que vous vouliez recueillir des exemples de nombres.",
-                        "SOUNDS" : "Your class said you want to collect examples of sounds."
+                        "SOUNDS" : "Votre classe a dit que vous vouliez recueillir des exemples de sons."
                     },
                     "INDIVIDUAL" : {
                         "TEXT" : "Vous avez dit que vous vouliez recueillir des exemples de textes.",
                         "IMAGES" : "Vous avez dit que vous vouliez recueillir des exemples d'images.",
                         "NUMBERS" : "Vous avez dit que vous vouliez recueillir des exemples de nombres.",
-                        "SOUNDS" : "You've said you want to collect examples of sounds."
+                        "SOUNDS" : "Vous avez dit que vous vouliez recueillir des exemples de sons."
                     }
                 },
                 "NODATA" : {
@@ -330,13 +330,13 @@
                         "TEXT" : "Votre classe a dit que vous vouliez recueillir des exemples de texte pour qu'un ordinateur puisse reconnaître quand le texte est ",
                         "IMAGES" : "Votre classe a dit que vous vouliez recueillir des exemples d'images pour qu'un ordinateur puisse reconnaître quand les images sont ",
                         "NUMBERS" : "Votre classe a dit que vous voulez recueillir des exemples de nombres pour qu'un ordinateur puisse reconnaître quand les nombres sont ",
-                        "SOUNDS" : "Your class said that you want to collect examples of sounds for a computer to recognise when sounds are "
+                        "SOUNDS" : "Votre classe a dit que vous voulez recueillir des exemples de sons pour qu'un ordinateur puisse reconnaître quand les sons singifient "
                     },
                     "INDIVIDUAL" : {
                         "TEXT" : "Vous avez dit que vous vouliez collecter des exemples de texte pour qu'un ordinateur puisse reconnaître quand le texte est ",
                         "IMAGES" : "Vous avez dit que vous vouliez collecter des exemples d'images pour qu'un ordinateur puisse reconnaître quand les images sont ",
                         "NUMBERS" : "Vous avez dit que vous vouliez collecter des exemples de nombres pour qu'un ordinateur puisse reconnaître quand les nombres sont ",
-                        "SOUNDS" : "You said that you want to collect examples of sounds for a computer to recognise when sounds are "
+                        "SOUNDS" : "Vous avez dit que vous vouliez collecter des exemples de sons pour qu'un ordinateur puisse reconnaître quand les sons signifient  "
                     }
                 },
                 "NOEXAMPLES" : {
@@ -348,13 +348,13 @@
                         "TEXT" : "Votre classe a rassemblé des exemples de textes qu'un ordinateur peut utiliser pour reconnaître quand le texte est ",
                         "IMAGES" : "Votre classe a rassemblé des exemples d'images qu'un ordinateur peut utiliser pour reconnaître quand les images sont ",
                         "NUMBERS" : "Votre classe a rassemblé des exemples de nombres qu'un ordinateur peut utiliser pour reconnaître quand les nombres sont ",
-                        "SOUNDS" : "Your class has collected examples of sounds for a computer to use to recognise when sounds are "
+                        "SOUNDS" : "Votre classe a rassemblé des exemples de sons qu'un ordinateur peut utiliser pour reconnaître quand les sons signifient "
                     },
                     "INDIVIDUAL" : {
                         "TEXT" : "Vous avez rassemblé des exemples de textes qu'un ordinateur peut utiliser pour reconnaître quand le texte est ",
                         "IMAGES" : "Vous avez rassemblé des exemples d'images qu'un ordinateur peut utiliser pour reconnaître quand les images sont ",
                         "NUMBERS" : "Vous avez rassemblé des exemples de nombres qu'un ordinateur peut utiliser pour reconnaître quand les nombres sont ",
-                        "SOUNDS" : "You have collected examples of sounds for a computer to use to recognise when sounds are "
+                        "SOUNDS" : "Vous avez rassemblé des exemples de sons qu'un ordinateur peut utiliser pour reconnaître quand les sons signifient "
                     },
                     "COLLECTED" : {
                         "CLASS" : "Qu'ils ont rassemblés : ",
@@ -391,7 +391,7 @@
                         "READY_TO_START" : "Prêt à commencer l'entraînement de l'ordinateur ?",
                         "START_TRAINING" : {
                             "CROWDSOURCED" : "Cliquez sur le bouton ci-dessous pour commencer l'entraînement d'un modèle d'apprentissage machine en utilisant les exemples que votre classe a recueillis jusqu'à présent.",
-                            "INDIVIDUAL" : "Cliquez sur le bouton ci-dessous pour commencer l'entraînement d'un modèle d'apprentissage machine à l'aide des exemples que vous avez collectés.r"
+                            "INDIVIDUAL" : "Cliquez sur le bouton ci-dessous pour commencer l'entraînement d'un modèle d'apprentissage machine à l'aide des exemples que vous avez collectés."
                         },
                         "MORE_EXAMPLES" : {
                             "CROWDSOURCED" : "(Ou demandez à votre classe de retourner à la page d'<a href='{{ urls.train}}'>Entraînement</a> si vous voulez qu'ils collectent d'abord plus d'exemples.)",
@@ -406,7 +406,7 @@
                     "TEXT" : "Essayez de tester le modèle d'apprentissage machine ci-dessous. Entrez un exemple de texte ci-dessous, que vous n'avez pas inclus dans les exemples que vous avez utilisés pour l'entraîner. Il vous dira ce qu'il reconnaît comme tel et à quel point il est confiant à cet égard.",
                     "IMAGES" : "Essayez de tester le modèle d'apprentissage machine ci-dessous. Entrez un exemple d'image ci-dessous, que vous n'avez pas inclus dans les exemples que vous avez utilisés pour l'entraîner. Il vous dira ce qu'il reconnaît comme tel et à quel point il est confiant à cet égard.",
                     "NUMBERS" : "Essayez de tester le modèle d'apprentissage machine ci-dessous. Entrez un exemple de nombre ci-dessous, que vous n'avez pas inclus dans les exemples que vous avez utilisés pour l'entraîner. Il vous dira ce qu'il reconnaît comme tel et à quel point il est confiant à cet égard.",
-                    "SOUNDS" : "Try testing the machine learning model below. Click the 'Start listening' button. If your machine learning model recognises any sounds, it will tell you what it recognises it as, and how confident it is in that."
+                    "SOUNDS" : "Essayez de tester le modèle d'apprentissage machine ci-dessous. Cliquer sur le bouton 'commencer à écouter'. Si le modèle d'apprentissage machine reconnaît des sons, il vous dira ce qu'il reconnaît comme tel et à quel point il est confiant à cet égard."
                 },
                 "SCRATCH" : "Si l'ordinateur semble avoir appris à reconnaître les choses correctement, alors vous pouvez aller à Scratch et utiliser ce que l'ordinateur a appris pour programmer un jeu !",
                 "ADDITIONAL_TRAINING" : {
@@ -424,7 +424,7 @@
         "TRAINING": {
             "TITLE": "Informations provenant de l'ordinateur d'entraînement :",
             "STARTED": "Le modèle a commencé l'entraînement à :",
-            "STATUS": "Current model status:",
+            "STATUS": "État actuel du modèle :",
             "DETAIL": "Détail:",
             "DELETION": "Le modèle sera automatiquement supprimé après :",
             "LASTCHECK": "Dernière vérification du modèle :",
@@ -435,14 +435,14 @@
                 "TEXT": "Essayez d'insérer un texte pour voir comment il est reconnu en fonction de votre entraînement.",
                 "IMAGES": "Essayez d'insérer une image pour voir comment elle est reconnue en fonction de votre entraînement.",
                 "NUMBERS": "Essayez d'entrer quelques nombres pour voir comment ils sont reconnus en fonction de votre entraînement.",
-                "SOUNDS": "Try making a sound to see how it is recognised based on your training"
+                "SOUNDS": "Essayez de faire un son pour voir comment il est reconnu en fonction de votre entraînement"
             },
             "WEBCAM": "Tester avec <strong>webcam</strong>",
             "DRAWING": "Tester par <strong>dessin</strong>",
             "WWW": "Tester avec <strong>www</strong>",
             "RECOGNISED": "Reconnu comme  <strong>{{ testoutput }}</strong>",
-            "STARTLISTENING": "Start listening",
-            "STOPLISTENING": "Stop listening"
+            "STARTLISTENING": "Commencez à écouter",
+            "STOPLISTENING": "Arrêtez d'écouter"
         },
         "QUIZ": {
             "TITLE": "C'est l'heure du quiz !",
@@ -456,7 +456,7 @@
     "MAKES": {
         "TITLE": "Faites quelque chose avec votre modèle d'apprentissage machine",
         "SCRATCH2": "Créer un projet dans l'ancienne version de Scratch",
-        "SCRATCH3": "Utilisez la nouvelle version de Scratch",
+        "SCRATCH3": "Créer un projet dans la nouvelle version de Scratch",
         "PYTHON": "Ecrire du code Python pour utiliser votre modèle d'apprentissage machine",
         "APPINVENTOR": "Créez une application mobile pour votre téléphone ou tablette"
     },
@@ -518,7 +518,7 @@
             "TEXT": "texte",
             "IMAGES": "images",
             "NUMBERS": "nombres",
-            "SOUNDS": "sounds"
+            "SOUNDS": "sons"
         },
 
         "LEVELS": {
@@ -622,12 +622,12 @@
         },
         "ROCKPAPERSCISSORS": {
             "TITLE": "Pierre, Papier, Ciseaux",
-            "SUMMARY": "Apprendre à un ordinateur à reconnaître les formes.",
+            "SUMMARY": "Apprendre à un ordinateur à reconnaître les formes à partir de photos.",
             "DESCRIPTION": "Réalisez un jeu de Pierre, Papier, Ciseaux dans Scratch qui apprend à reconnaître les formes des mains."
         },
         "JUDGEABOOK": {
             "TITLE": "Juger un livre",
-            "SUMMARY": "Apprendre à un ordinateur à reconnaître le style visuel",
+            "SUMMARY": "Apprendre à un ordinateur à reconnaître le style visuel des couvertures de livres",
             "DESCRIPTION": "Faites un jeu dans Scratch pour tester s'il est vraiment possible de juger un livre par sa couverture."
         },
         "LOCATELARRY": {
@@ -676,14 +676,14 @@
             "DESCRIPTION": "Crée un Alien dans Scratch qui apprend comment reconnaître des sons dans le langage alien"
         },
         "SECRETCODE": {
-            "TITLE": "Secret Code",
-            "SUMMARY": "Teach a computer to recognize speech",
-            "DESCRIPTION": "Train a computer to understand secret code words to guide a spy."
+            "TITLE": "Code Secret",
+            "SUMMARY": "Entraine un ordinateur à reconnaître la parole",
+            "DESCRIPTION": "Entraîner un ordinateur à comprendre les mots de code secrets pour aider un espion."
         },
         "JARGONBUSTER": {
             "TITLE": "Jargon Buster",
-            "SUMMARY": "Teach a computer to listen for words",
-            "DESCRIPTION": "Make a project in Scratch that displays the meaning of words you say."
+            "SUMMARY": "Apprends à un ordinateur à écouter les mots",
+            "DESCRIPTION": "Créez un projet dans Scratch qui affiche le sens des mots que vous prononcez."
         }
     },
     "TEACHER": {
@@ -739,7 +739,7 @@
             "HELP_STEPBYSTEP_GUIDE": "Si vous n'êtes pas sûr de ce qu'il faut faire ici, veuillez suivre le  <a href='https://github.com/IBM/taxinomitis-docs/raw/master/docs/pdf/machinelearningforkids-apikeys.pdf'> guide étape par étape </a>. Si vous avez besoin d'aide, veuillez <strong><a style='cursor : pointer;' ui-sref='help'>prendre contact</a></strong>.",
 
             "INTRO_WATSONASSISTANT": "Modèles d'entraînement pour l'apprentissage machine pour des projets avec des <span class='mlprojecttype'>textes</span>  utilisant <a class='mlprojecttype' href='https://www.ibm.com/cloud/watson-assistant/'>Watson Assistant</a>",
-            "INTRO_VISUALRECOGNITION": "TModèles d'entraînement pour l'apprentissage machine pour des projets avec des <span class='mlprojecttype'>images</span> utilisant <a class='mlprojecttype' href='https://www.ibm.com/watson/services/visual-recognition/'>Watson Visual Recognition</a>",
+            "INTRO_VISUALRECOGNITION": "Modèles d'entraînement pour l'apprentissage machine pour des projets avec des <span class='mlprojecttype'>images</span> utilisant <a class='mlprojecttype' href='https://www.ibm.com/watson/services/visual-recognition/'>Watson Visual Recognition</a>",
 
             "ERROR_FETCHING_WATSONASSISTANT": "Échec de l'obtention de vos mots de passe Watson Assistant",
             "ERROR_FETCHING_VISUALRECOG": "Échec de l'obtention de vos clés API Visual Recognition",
@@ -752,8 +752,8 @@
             "UNKNOWN": "inconnu",
             "UNLIMITED": "illimité",
 
-            "LIMIT_TEXT_PROJECTS": "Nombre de modèles d'apprentissage automatique de textes que vos élèves peuvent avoir :",
-            "LIMIT_IMAGE_PROJECTS": "Nombre de modèles d'apprentissage automatique d'images que vos élèves peuvent avoir :",
+            "LIMIT_TEXT_PROJECTS": "Nombre de modèles d'apprentissage automatique de textes que vos élèves peuvent entraîner :",
+            "LIMIT_IMAGE_PROJECTS": "Nombre de modèles d'apprentissage automatique d'images que vos élèves peuvent entraîner :",
 
             "ADD_API_KEYS": {
                 "ASSISTANT_TITLE": "Ajouter les identifiants Watson Assistant",
@@ -832,19 +832,19 @@
             "NOT_AUTHORIZED": "Vous n'êtes pas autorisé à accéder à la liste des élèves de votre classe.",
 
             "ADD_MULTIPLE": {
-                "BUTTON" : "Multiple students",
+                "BUTTON" : "Élèves multiples",
 
-                "TITLE" : "Add new students",
-                "INTRO" : "You can use this to create more than one student account at the same time.",
-                "USERNAME" : "What do you want each username to start with?",
-                "USERNAME_REQUIRED" : "Please choose the prefix for the usernames",
-                "USERNAME_TOOLONG" : "That is too long",
-                "USERNAME_INVALID" : "Invalid characters",
-                "NUMBER" : "How many student accounts do you want?",
-                "NUMBER_REQUIRED" : "Please enter the number of students to create",
-                "NUMBER_TOOMANY" : "Your class has a limit of {{userslimit}} students.",
-                "PASSWORD" : "The password to give them:",
-                "PASSWORD_TOOSHORT" : "Too short"
+                "TITLE" : "Ajouter de nouveaux élèves",
+                "INTRO" : "Vous pouvez l'utiliser pour créer plus d'un compte élève en même temps.",
+                "USERNAME" : "Par quoi voulez-vous que chaque nom d'utilisateur commence ?",
+                "USERNAME_REQUIRED" : "Veuillez choisir le préfixe pour les noms d'utilisateur",
+                "USERNAME_TOOLONG" : "C'est trop long",
+                "USERNAME_INVALID" : "Caractères non valides",
+                "NUMBER" : "Combien de comptes élèves voulez-vous ?",
+                "NUMBER_REQUIRED" : "Veuillez entrer le nombre d'élèves à créer",
+                "NUMBER_TOOMANY" : "Votre classe a une limite de {{userslimit}} élèves.",
+                "PASSWORD" : "Le mot de passe à leur donner :",
+                "PASSWORD_TOOSHORT" : "Trop court"
             }
         }
     },
@@ -884,9 +884,9 @@
             "TITLE": "Pour commencer ?",
             "INTRO": "Téléchargez un PDF avec un petit guide de démarrage :",
             "MANAGED": "Comptes de classe gérés",
-            "MANAGEDEXPL": "Pour les enseignant.e.s des écoles, les responsables des groupes de codage ou d'autres bénévoles",
+            "MANAGEDEXPL": "Pour les enseignant.e.s des écoles, les responsables de clubs de codage ou d'autres bénévoles",
             "UNMANAGED": "Comptes de classe non gérés",
-            "UNMANAGEDEXPL": "Pour les employés d'IBM ou les enseignants et les responsables de groupes de codage qui gèrent leurs propres comptes de classe."
+            "UNMANAGEDEXPL": "Pour les employés d'IBM ou les enseignants et les responsables de clubs de codage qui gèrent leurs propres comptes de classe."
         },
         "FAQS": {
             "TITLE": "Vous voulez en savoir plus ?",
@@ -1044,7 +1044,7 @@
             "Q4-A-8": "Les erreurs qui se produisent dans le navigateur Web sont capturées en utilisant le service tiers, <a href='https://sentry.io/'>Sentry</a>. Si quelque chose ne va pas, il saisira des informations sur l'erreur, y compris votre nom d'utilisateur, votre adresse IP, le type de navigateur que vous utilisiez et une description technique de ce qui a dysfonctionné.",
             "Q4-A-9": "J'utilise <a href='https://www.google.com/analytics/'>Google Analytics</a> pour savoir combien d'utilisateurs visitent Machine Learning for Kids chaque jour. Bien qu'il capture des informations telles que l'emplacement géographique et le type de navigateur, il ne me les affiche uniquement que sous forme d'agrégat anonyme.",
 
-            "Q5": "What happens to training data created by students?",
+            "Q5": "Qu'advient-il des données d'entraînement créées par les élèves ?",
             "Q5-A-1": "A step in all machine learning projects that students make using this site is to create or collect training examples. For text projects, this can mean typing in short text passages. For image projects, this can means drawing pictures onto an on-screen canvas or taking photos using the webcam. For numbers projects, this means typing in sets of numbers",
             "Q5-A-2": "All of these training examples are stored in a <a href='https://www.ibm.com/cloud/compose/mysql'>MySQL database hosted on IBM Cloud</a>. As the database administrator, I have access to all of these training examples for all student projects, however I do not use it for any other purposes other than enabling students to access and work on their own projects. I do not publish the training data (either publicly or to individuals or third parties) or otherwise share it, with the two exceptions of submitting it to IBM Watson APIs described below.",
             "Q5-A-3": "Machine learning models for text projects are created using the <a href='https://www.ibm.com/cloud/watson-assistant/'>IBM Watson Assistant</a> cloud service, which means when students train a model, a copy of the training examples that they have entered will be <a href='https://cloud.ibm.com/apidocs/assistant#create-workspace'>submitted to IBM Watson</a>. IBM Watson does not use these training examples for any other purposes. This is because Machine Learning for Kids <a href='https://cloud.ibm.com/apidocs/assistant#data-collection'>requests an opt-out</a> for student training examples being used by IBM to improve the service, as <a href='https://cloud.ibm.com/docs/services/watson?topic=watson-gs-logging-overview'>described in the Watson documentation</a>.",
